@@ -15,6 +15,8 @@ An all-in-one solution for derbyverse smart contact with  dapp mint . Build, tes
 - includes a fully-featured minting DAPP (React + TypeScript + SCSS + Webpack)
 - full support for contract interaction through Etherscan, for all the users that do not trust custom DAPPs (including the `whitelistMint(...)` function)
 - customizable minting DAPP (from basic branding to complete customization)
+- 
+![Uploading image.png…]()
 
 
 ## Requirements
