@@ -16,7 +16,8 @@ An all-in-one solution for derbyverse smart contact with  dapp mint . Build, tes
 - full support for contract interaction through Etherscan, for all the users that do not trust custom DAPPs (including the `whitelistMint(...)` function)
 - customizable minting DAPP (from basic branding to complete customization)
 - 
-![image](https://github.com/hassanalobady/Derbyverse-NFT/assets/19050553/386a1b64-42b7-45ed-8c7e-6071249c5964)
+
+![image](https://github.com/hassanalobady/Derbyverse-NFT/assets/19050553/05bc43ad-1180-451c-8369-88982e2e1339)
 
 ## Requirements
 
